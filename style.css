@@ -1,17 +1,72 @@
-.Head{
+#question{
 color: blue;
 text-align: center;
+/* width: max-content; */
 }
-
-.Head2{
-    background-color: orange;
-    border: red;
+#title{
+    color: white;
+background-color: orange;
+/* width:max-content; */
 }
-
-p.descs > div{
-    background-color: blueviolet;
+.mt-0{
+    margin-top: 0%;
 }
+body{
+    background-image: url("../images/newzland1.jpg")
+}
+.intro{
+    font-style: italic;
+    color: black;
+    text-align: center;
+    background-color: cyan;
+    /* border-block-start-style: double; */
+    border-block-start-style: dashed;
+    font-weight: bolder;
+    
+}
+.footer{
+    margin-top: 30%;
+    color: black;
+    background-color: cyan;
+    font-weight: bolder;
+}
+.profile{
+    margin-left: auto;    
+}
+.intro-myself{
+    text-align: center;
+    color: black ;
+    background-color: darkgoldenrod;
+    text-align: center;
+    width: max-content;
+    font-weight: 900;
+    margin-left: 0%;
+    border-block-start-style: double;
+}
+#details{
+    color: green ;
+    font-weight: bolder;
+    width:50%;
+    font-weight: 800;
+border-style: solid;
+}
+.button{
+    color:white;
+    font-weight: bolder;
+    /* background-color: black ; */
+    text-align: auto;
+    width: max-content;
+    margin-left: 34%;
+    border-style:solid;
+    font-weight: bolder;
 
-p::first-letter	{
-    color: red
+
+}
+#href-button{
+   
+    background-color: antiquewhite;
+    color: blue;
+    font-weight: bolder;
+
+
 }
