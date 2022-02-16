@@ -1,0 +1,17 @@
+.Head{
+color: blue;
+text-align: center;
+}
+
+.Head2{
+    background-color: orange;
+    border: red;
+}
+
+p.descs > div{
+    background-color: blueviolet;
+}
+
+p::first-letter	{
+    color: red
+}
