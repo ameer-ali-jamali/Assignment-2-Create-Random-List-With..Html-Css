@@ -1,0 +1,70 @@
+#question {
+  color: blue;
+  text-align: center;
+}
+
+#title {
+  color: white;
+  background-color: orange;
+  /* width: max-content; */
+}
+
+.mt-0 {
+  margin-top: 0;
+}
+
+body {
+  background-image: url("../images/newzland1.jpg");
+  background-size: cover; /* Ensure the background image covers the entire viewport */
+}
+
+.intro {
+  font-style: italic;
+  color: black;
+  text-align: center;
+  background-color: cyan;
+  border-style: dashed; /* Use border-style for a dashed border */
+  font-weight: bolder;
+}
+
+.footer {
+  margin-top: 30%;
+  color: black;
+  background-color: cyan;
+  font-weight: bolder;
+}
+
+.profile {
+  margin-left: auto;
+}
+
+.intro-myself {
+  text-align: center;
+  color: black;
+  background-color: darkgoldenrod;
+  font-weight: 900;
+  border-style: double; /* Use border-style for a double border */
+}
+
+#details {
+  color: green;
+  font-weight: bolder;
+  width: 50%;
+  border-style: solid;
+}
+
+.button {
+  color: white;
+  font-weight: bolder;
+  /* background-color: black; */
+  text-align: center; /* Use text-align to center the text */
+  width: max-content;
+  margin: 0 auto; /* Center the button horizontally */
+  border-style: solid;
+}
+
+#href-button {
+  background-color: antiquewhite;
+  color: blue;
+  font-weight: bolder;
+}
