@@ -6,7 +6,6 @@
 #title {
   color: white;
   background-color: orange;
-  /* width: max-content; */
 }
 
 .mt-0 {
@@ -15,7 +14,7 @@
 
 body {
   background-image: url("../images/newzland1.jpg");
-  background-size: cover; /* Ensure the background image covers the entire viewport */
+  background-size: cover;
 }
 
 .intro {
@@ -23,7 +22,7 @@ body {
   color: black;
   text-align: center;
   background-color: cyan;
-  border-style: dashed; /* Use border-style for a dashed border */
+  border-style: dashed;
   font-weight: bolder;
 }
 
@@ -43,7 +42,7 @@ body {
   color: black;
   background-color: darkgoldenrod;
   font-weight: 900;
-  border-style: double; /* Use border-style for a double border */
+  border-style: double;
 }
 
 #details {
@@ -56,10 +55,9 @@ body {
 .button {
   color: white;
   font-weight: bolder;
-  /* background-color: black; */
-  text-align: center; /* Use text-align to center the text */
+  text-align: center;
   width: max-content;
-  margin: 0 auto; /* Center the button horizontally */
+  margin: 0 auto;
   border-style: solid;
 }
 
